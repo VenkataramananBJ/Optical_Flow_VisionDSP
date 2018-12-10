@@ -1,0 +1,3 @@
+/home/nvidia/Venkat/OpenVX_tryouts/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Venkat/OpenVX_tryouts/build/CMakeFiles/openvx.dir
+/home/nvidia/Venkat/OpenVX_tryouts/build/CMakeFiles/edit_cache.dir
